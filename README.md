@@ -1,6 +1,7 @@
 # Assessment2Mar31
 ProGrad Assessment 2 - March 31
 DriverLicense
+-----------------------------------------------------
 You have to get a new driver's license. 
 You show up at the office at the same time as four other people. 
 The office says they will see everyone in alphabetical order and it takes 20 minutes for them to process each new license. 
@@ -21,8 +22,9 @@ License("Zebediah", 1, "Bob Jim Becky Pat") ➞ 100
 
 License("Aaron", 3, "Jane Max Olivia Sam") ➞ 20
 // As you are the first.
--------------------------------------------------------
+
 LicensePlate
+-------------------------------------------------------
 Travelling through Europe one needs to pay attention to how the license plate in the given country is displayed.
 When crossing the border you need to park on the shoulder, unscrew the plate, re-group the characters according to the local regulations, attach it back and proceed with the journey.
 
